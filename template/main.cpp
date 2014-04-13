@@ -58,7 +58,7 @@ inline void solve()
 
 int main()
 {
-#ifdef Hp
+#ifdef HP
     freopen("input.txt", "rt", stdin);
     freopen("output.txt", "wt", stdout);
 #endif
