@@ -1,0 +1,2 @@
+./main
+cat output.txt
